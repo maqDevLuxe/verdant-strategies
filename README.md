@@ -1,0 +1,3 @@
+# Verdant Strategies
+
+Project initialized.
